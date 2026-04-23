@@ -32,8 +32,8 @@ $env:PICO_EXTRAS_PATH="C:\path\to\pico-extras"
 Clone this repository:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone [<your-repo-url>](https://github.com/Bruno-Noobador/Glep-Doll.git)
+cd Glep-Doll
 ```
 
 Clone LittleFS into the project (required if not already present):
