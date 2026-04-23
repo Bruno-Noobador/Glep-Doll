@@ -1,6 +1,9 @@
 # Glep-Doll
 
-Compilation:
+
+git clone https://github.com/littlefs-project/littlefs
+
+**Compilation:**
 
 mkdir build
 
